@@ -1,3 +1,10 @@
+/*
+O programa apresenta falhas, sujeito a atualizações futuras.
+
+------- Criado por Main ---------
+
+*/
+
 #include <iostream>
 
 using namespace std;
